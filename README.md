@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://codepen.io/sandeep-mz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="sandeep-mz" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sandeepmz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sandeepmz" height="30" width="40" /></a>
-<a href="https://instagram.com/sandeep-mz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sandeep-mz" height="30" width="40" /></a>
+<a href="https://instagram.com/sandeep_mz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sandeep-mz" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/10millionvibrat1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="10millionvibrat1" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sandeep_mz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sandeep_mz" height="30" width="40" /></a>
 </p>
