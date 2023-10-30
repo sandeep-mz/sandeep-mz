@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Excalidraw](https://github.com/sandeep-mz/Excalidraw-clone)
 
-- 🌱 I’m currently learning **AccioJob Fullstack development**
+- 🌱 I’m currently learning from **AccioJob - Fullstack development**
 
 - 👨‍💻 All of my projects are available at [https://sandeep-mz.github.io/My-Portfolio/](https://sandeep-mz.github.io/My-Portfolio/)
 
