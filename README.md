@@ -20,6 +20,7 @@ I'm a passionate developer from India who loves to create web applications and e
 [<img align="left" alt="CodePen" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" />][codepen]
 [<img align="left" alt="LinkedIn" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />][linkedin]
 [<img align="left" alt="Instagram" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />][instagram]
+
 <!-- Add more social media links -->
 
 <br />
@@ -27,12 +28,20 @@ I'm a passionate developer from India who loves to create web applications and e
 ---
 
 <!-- Languages & Tools -->
-### Languages and Tools:
+### Frontend Technologies:
 
+<!-- Frontend Technologies -->
 <img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" />
 <img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" />
 <img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
-<!-- Add more icons for languages and tools -->
+
+### Backend Technologies:
+<!-- Backend Technologies -->
+<img align="left" alt="Java" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
+<img align="left" alt="C/C++" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />
+<img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+<img align="left" alt="PHP" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" />
+<img align="left" alt="MySQL" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />
 
 <br />
 <br />
