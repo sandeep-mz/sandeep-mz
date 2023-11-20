@@ -10,5 +10,4 @@ I'm a passionate developer from India who loves to create web applications and e
 - 🌱 I’m currently learning and building projects with React.js and Node.js.
 - 🔭 I’m working on [Excalidraw Clone](https://github.com/sandeep-mz/Excalidraw-clone).
 - 👯 I’m looking to collaborate on open-source projects.
-- 💬 Ask me about frontend development, UI/UX design, or any tech-related stuff.
-- 
+- 📫 How to reach me initialsandeep09@gmail.com
